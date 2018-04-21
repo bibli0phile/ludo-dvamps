@@ -22,6 +22,7 @@
   "homepage": "https://github.com/STEP-tw/ludo-dvamps#readme",
   "devDependencies": {
     "chai": "^4.1.2",
+    "mocha": "^5.0.4",
     "supertest": "git+https://github.com/visionmedia/supertest.git"
   },
   "dependencies": {
